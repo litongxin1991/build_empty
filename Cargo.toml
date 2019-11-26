@@ -1,5 +1,5 @@
 [package]
-name = "prost_build"
+name = "prost-build"
 version = "0.5.0"
 authors = ["Tongxin Li <litongxin1991@gmail.com>"]
 edition = "2018"
